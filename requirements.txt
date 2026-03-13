@@ -1,10 +1,10 @@
 streamlit
 pandas
 numpy
-scikit-learn
+scikit-learn==1.6.1
 matplotlib
 seaborn
 joblib
 shap
 xgboost
-tensorflow
+tensorflow==2.19.0
