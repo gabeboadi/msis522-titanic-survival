@@ -1,0 +1,16 @@
+[
+  "num__age",
+  "num__sibsp",
+  "num__parch",
+  "num__fare",
+  "num__family_size",
+  "num__is_alone",
+  "cat__sex_female",
+  "cat__sex_male",
+  "cat__embarked_C",
+  "cat__embarked_Q",
+  "cat__embarked_S",
+  "cat__pclass_1",
+  "cat__pclass_2",
+  "cat__pclass_3"
+]
